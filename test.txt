@@ -1,0 +1,6 @@
+hi this is my test program to learn git
+i jst moved my code from local git to github
+now i wanted to test braching
+i'm editng this file in sprint
+let's see whether it will merge with master or not
+
